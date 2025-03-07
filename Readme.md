@@ -40,6 +40,7 @@ To run the script on your local machine, follow these steps:
 You can also run the script directly on Google Colab without installing anything. Access the respective notebooks using the links below:
 
 📌 Acceptance Limits Notebook: https://colab.research.google.com/drive/1bPlo2MwCUzFnrIiih2DRkTh1fosLqteu?usp=sharing
+
 📌 Rejection Limits Notebook: https://colab.research.google.com/drive/1LLYinxhv_6cg3eSokeu43775w2VzI8UB?usp=sharing
 
 💡 Note: Running the script on Google Colab means:
