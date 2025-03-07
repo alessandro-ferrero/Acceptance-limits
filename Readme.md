@@ -1,6 +1,6 @@
 # Acceptance and Rejection Limits Calculation
 
-This program computes **acceptance** (Acceptance limits.ipynb`) and **rejection** (`Rejection limits.ipynb`) limits based on the **ISO-IEC Guide 98-4** and **JCGM 106:2012** recommendations.
+This program computes **acceptance** (`Acceptance limits.ipynb`) and **rejection** (`Rejection limits.ipynb`) limits based on the **ISO-IEC Guide 98-4** and **JCGM 106:2012** recommendations.
 
 It is designed to support the research paper:
 
