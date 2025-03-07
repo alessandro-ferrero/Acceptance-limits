@@ -34,6 +34,7 @@ To run the script on your local machine, follow these steps:
 **Distribution parameters:**
 - Maximum Admissible Limit (MAL)
 - Monte-Carlo simulation-derived value distributions (R98.txt, R102.txt). These values are those that can be reasonably attributed to the measurand obtained from a Monte-Carlo simulation for the case of an unknown distribution.
+
 💡For further details on parameter adjustments, refer to the research paper.
 
 ### 2️⃣ Running on Google Colab
